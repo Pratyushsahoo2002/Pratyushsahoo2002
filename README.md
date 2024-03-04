@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 <h1 align="center">Hi 👋, I'm pratyush kumar sahoo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">Kalinga Institute of Industrial Technology University in Bhubaneswar, Odisha</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushsahoo2002&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsahoo2002" /> </p>
 
